@@ -1,0 +1,9 @@
+{
+  "key.category.replaymodsound": "ReplayMod Sound",
+  "key.replaymodsound.sources": "Pistes Son PC / Micro",
+  "key.replaymodsound.tracks": "Pistes audio du replay (F6 / J)",
+  "replaymodsound.sources.title": "2 pistes — Son PC + Micro",
+  "replaymodsound.tracks.title": "Soundtrack Selector",
+  "replaymodsound.status.recording": "RMS: capture de %s piste(s)",
+  "replaymodsound.status.idle": "RMS: inactif"
+}

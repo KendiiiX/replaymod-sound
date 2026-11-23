@@ -1,0 +1,9 @@
+{
+  "key.category.replaymodsound": "ReplayMod Sound",
+  "key.replaymodsound.sources": "Audio capture sources",
+  "key.replaymodsound.tracks": "Replay soundtrack tracks",
+  "replaymodsound.sources.title": "2 tracks — PC + Mic",
+  "replaymodsound.tracks.title": "Soundtrack Selector",
+  "replaymodsound.status.recording": "RMS: capturing %s source(s)",
+  "replaymodsound.status.idle": "RMS: idle"
+}

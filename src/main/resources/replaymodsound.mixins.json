@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "fr.kendix.replaymodsound.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "PacketListenerAccessor",
+    "ConnectionEventHandlerMixin",
+    "PacketListenerMixin",
+    "ReplayModReplayMixin",
+    "ReplayHandlerMixin",
+    "GuiReplayOverlayMixin",
+    "FullReplaySenderMixin"
+  ],
+  "mixinPriority": 1001,
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

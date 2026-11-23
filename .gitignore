@@ -1,0 +1,25 @@
+.gradle/
+build/
+out/
+run/
+*.iml
+.idea/
+.vscode/
+*.log
+# Runtime capture/playback folder next to the game (not the Java package)
+/replaymodsound/
+
+# Local / huge tool binaries (ffmpeg bundles, publish output)
+tools/extract/
+tools/ffmpeg-wasapi/
+tools/ffmpeg-btbn.zip
+tools/WasapiLoopback/bin/
+tools/WasapiLoopback/obj/
+run-bin/
+*.exe
+*.pdb
+*.dll
+!gradle/wrapper/gradle-wrapper.jar
+
+# Keep ReplayMod dep jar out of git if huge — document download instead
+# libs/ is small enough (~13MB) and needed to build
